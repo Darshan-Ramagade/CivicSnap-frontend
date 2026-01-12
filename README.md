@@ -9,9 +9,9 @@
 
 ---
 
-## 🌟 Why AI Civic Issue Mapper?
+## 🌟 Why CivicSnap?
 
-Traditional complaint systems are slow, manual, and inefficient. **AI Civic Issue Mapper** modernizes civic reporting by using **computer vision and automation** to classify issues, assign priority, and provide real-time visibility to both citizens and administrators.
+Traditional complaint systems are slow, manual, and inefficient. **CivicSnap** modernizes civic reporting by using **computer vision and automation** to classify issues, assign priority, and provide real-time visibility to both citizens and administrators.
 
 ✔ Faster issue identification
 ✔ Transparent tracking
@@ -144,7 +144,7 @@ JWT_SECRET=your_jwt_secret
 
 ```
 Email: admin@civicmapper.com
-Password: admin123
+Password: XXXXXXX
 ```
 
 ⚠️ **Change credentials before deploying to production**
