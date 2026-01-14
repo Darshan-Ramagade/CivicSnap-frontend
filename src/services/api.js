@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Base URL from environment variable
-const API_URL = 'https://civicsnap.onrender.com';
+const API_URL = 'http://localhost:5000/api';
 
 // Create axios instance with default config
 const api = axios.create({
